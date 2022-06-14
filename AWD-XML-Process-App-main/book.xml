@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+  <book id="628496579c40854690b4a538">
+    <author>Gambardella, Matthew</author>
+    <title>XML Developer's Guide</title>
+    <genre>Computer</genre>
+    <price>44.95</price>
+    <description>An in-depth look at creating applications with XML.</description>
+  </book>
+  <book id="6284974205d88c3ed8f5dd2f">
+    <author>Ralls, Kim</author>
+    <title>Midnight Rain</title>
+    <genre>Fantasy</genre>
+    <price>5.95</price>
+    <description>A former architect battles corporate zombies, an evil sorceress, and her own childhood to become queen of the world.</description>
+  </book>
+  <book id="62a629a28e9b524100ca7108">
+    <author>Arthur doil</author>
+    <title>Sherlok holmes</title>
+    <genre>adventure</genre>
+    <price>12.8</price>
+    <description>Adventure of sherlok</description>
+  </book>
+  <book id="62a632098e9b524100ca7109">
+    <author>James clear</author>
+    <title>Atomic Habits</title>
+    <genre>Motivation</genre>
+    <price>7.56</price>
+    <description>Self motivational stories</description>
+  </book>
+  <book id="62a6c90f287d301068ca2e4f">
+    <author>sdfw</author>
+    <title>sdfdf</title>
+    <genre>wefsd</genre>
+    <price>45</price>
+    <description>sdfw</description>
+  </book>
+  <book id="62a6ca0e287d301068ca2e50">
+    <author>sdf</author>
+    <title>zfc</title>
+    <genre>sdf</genre>
+    <price>56</price>
+    <description>asdas</description>
+  </book>
+  <book id="62a6ef05287d301068ca2e51">
+    <author>asdw</author>
+    <title>test</title>
+    <genre>kjhdn</genre>
+    <price>54</price>
+    <description>nhgdt</description>
+  </book>
+  <book id="62a772741169bd1c5c675690">
+    <author>werf</author>
+    <title>lakshan</title>
+    <genre>dfg</genre>
+    <price>12</price>
+    <description>sef</description>
+  </book>
+  <book id="62a775f91169bd1c5c675691">
+    <author>jane</author>
+    <title>test</title>
+    <genre>aasd</genre>
+    <price>45</price>
+    <description>Travel</description>
+  </book>
+  <book id="62a777893ac2400670d90b96">
+    <author>jason</author>
+    <title>Diary</title>
+    <genre>Kid</genre>
+    <price>23</price>
+    <description>Life tricks</description>
+  </book>
+  <book id="62a77c413ac2400670d90b98">
+    <author>noten</author>
+    <title>Life</title>
+    <genre>philosophy</genre>
+    <price>23</price>
+    <description>life</description>
+  </book>
+  <book id="62a8316ffda84c2fccfc18ee">
+    <author>sdfv</author>
+    <title>sdfwe</title>
+    <genre>sdfv</genre>
+    <price>56</price>
+    <description>bgthy</description>
+  </book>
+  <book id="62a83389fda84c2fccfc18ef">
+    <author>dfrg</author>
+    <title>wergt</title>
+    <genre>ertbn</genre>
+    <price>45</price>
+    <description>vgbhyn</description>
+  </book>
+  <book id="62a858ccfda84c2fccfc18f0">
+    <author>morgan</author>
+    <title>travel</title>
+    <genre>travel</genre>
+    <price>2</price>
+    <description>travel</description>
+  </book>
+</catalog>

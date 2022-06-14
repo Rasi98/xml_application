@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Books</title>
+</head>
+<style>
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        padding: 5px;
+    }
+</style>
+<body onload="loadDoc()">
+<h2 style="text-align: center">Book List</h2>
+<div style="display: flex;justify-content: center">
+<table id="demo" style="align-content: center"></table>
+</div>
+<h2 style="text-align: center"> Add New Book</h2>
+<div style="display: flex;justify-content: center">
+<form>
+    <label for="name">Name:</label><br/>
+    <input style="margin-bottom: 5px" type="text" id="name" name="name"/><br/>
+    <label for="author">Author:</label><br/>
+    <input style="margin-bottom: 5px" type="text" id="author" name="author"/><br/>
+    <label for="genre">Genre:</label><br/>
+    <input style="margin-bottom: 5px" type="text" id="genre" name="genre"/><br/>
+    <label for="price">Price:</label><br/>
+    <input style="margin-bottom: 5px" type="number" id="price" name="price"/><br/>
+    <label for="description">Description:</label><br/>
+    <input style="margin-bottom: 5px" type="text" id="description" name="description"/><br/><br/>
+    <input style="width: 100%" type="button" name="Submit" id="Submit" value="Add" onclick="AddBook()" />
+</form>
+</div>
+<script src="BookPage.js"></script>
+</body>
+</html>
